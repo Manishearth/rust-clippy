@@ -166,6 +166,8 @@ Our highest priority is fixing [crashes][l-crash] and [bugs][l-bug]. We don't
 want Clippy to crash on your code and we want it to be as reliable as the
 suggestions from Rust compiler errors.
 
+If you would like to start triaging issues, one easy way to get started is to [subscribe to rust-clippy on CodeTriage][codetriage-url].
+
 ## Bors and Homu
 
 We use a bot powered by [Homu][homu] to help automate testing and landing of pull
@@ -206,6 +208,7 @@ or the [MIT](http://opensource.org/licenses/MIT) license.
 [rfc_stability]: https://github.com/rust-lang/rfcs/blob/master/text/2476-clippy-uno.md#stability-guarantees
 [rfc_lint_cats]: https://github.com/rust-lang/rfcs/blob/master/text/2476-clippy-uno.md#lint-audit-and-categories
 [triage]: https://forge.rust-lang.org/triage-procedure.html
+[codetriage-url]: https://www.codetriage.com/manishearth/rust-clippy
 [l-crash]: https://github.com/rust-lang/rust-clippy/labels/L-crash%20%3Aboom%3A
 [l-bug]: https://github.com/rust-lang/rust-clippy/labels/L-bug%20%3Abeetle%3A
 [homu]: https://github.com/servo/homu

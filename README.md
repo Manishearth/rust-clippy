@@ -4,6 +4,7 @@
 [![Windows Build status](https://ci.appveyor.com/api/projects/status/id677xpw1dguo7iw?svg=true)](https://ci.appveyor.com/project/rust-lang-libs/rust-clippy)
 [![Current Version](https://meritbadge.herokuapp.com/clippy)](https://crates.io/crates/clippy)
 [![License: MIT/Apache-2.0](https://img.shields.io/crates/l/clippy.svg)](#license)
+[![Open Source Helpers](https://www.codetriage.com/manishearth/rust-clippy/badges/users.svg)](https://www.codetriage.com/manishearth/rust-clippy)
 
 A collection of lints to catch common mistakes and improve your [Rust](https://github.com/rust-lang/rust) code.
 
